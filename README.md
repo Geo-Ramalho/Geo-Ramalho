@@ -8,7 +8,6 @@
 <br>
 
 <div> 
-  <a href="https://rafaelgnobrega.github.io/portfolio/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Geo-Ramalho&show_icons=true&theme=tokyonight">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geo-Ramalho&layout=compact&langs_count=16&theme=tokyonight" src="https://github.com/Geo-Ramalho/github-readme-stats">
 </div>
